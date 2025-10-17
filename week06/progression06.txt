@@ -1,0 +1,1 @@
+สัปดาห์ที่ 6: เข้าใจแนวคิด Functional Programming ใช้ map(), filter(), reduce() และ closure ได้

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Week 9:  เรียนรู้ Event Handling, Event Object, Bubbling/Capturing</title>
+<style>
+  body {
+    font-family: "Segoe UI", sans-serif;
+    background-color: #f2f8ff;
+    color: #222;
+    margin: 0;
+    padding: 20px;
+  }
+  header {
+    background-color: #007acc;
+    color: white;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  main {
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  button {
+    background-color: #007acc;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 15px;
+    cursor: pointer;
+  }
+  .output {
+    margin-top: 10px;
+    padding: 10px;
+    background: #e6f3ff;
+    border-radius: 8px;
+    min-height: 40px;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Week 9:  เรียนรู้ Event Handling, Event Object, Bubbling/Capturing</h1>
+    <p>สัปดาห์ที่ 9: เรียนรู้ Event Handling, Event Object, Bubbling/Capturing</p>
+  </header>
+  <main>
+    <button onclick="runPractice()">Run Practice</button>
+    <div class="output" id="output"></div>
+  </main>
+  <script src="main.js"></script>
+</body>
+</html>

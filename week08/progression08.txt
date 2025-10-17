@@ -1,0 +1,1 @@
+สัปดาห์ที่ 8: ฝึก DOM ขั้นสูง เช่น Traversing, NodeList, HTMLCollection (Part 2)

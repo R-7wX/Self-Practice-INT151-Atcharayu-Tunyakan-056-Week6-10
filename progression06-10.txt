@@ -1,0 +1,5 @@
+สัปดาห์ที่ 6: เข้าใจแนวคิด Functional Programming ใช้ map(), filter(), reduce() และ closure ได้
+สัปดาห์ที่ 7: เรียนรู้การเข้าถึงและจัดการ DOM Element ผ่าน JavaScript (Part 1)
+สัปดาห์ที่ 8: ฝึก DOM ขั้นสูง เช่น Traversing, NodeList, HTMLCollection (Part 2)
+สัปดาห์ที่ 9: เรียนรู้ Event Handling, Event Object, Bubbling/Capturing
+สัปดาห์ที่ 10: ฝึก Client-Side Storage เช่น LocalStorage และ SessionStorage
